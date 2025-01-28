@@ -3,7 +3,7 @@
   "wake_word": "Onyx",
   "author": "SPJ",
   "website": "https://www.subgenius.com/",
-  "model": "./Onyx.tflite",
+  "model": "https://raw.githubusercontent.com/shawnpjennings/microwakewords/main/Onyx.tflite",
   "version": 1,
   "micro": {
     "probability_cutoff": 0.66,
