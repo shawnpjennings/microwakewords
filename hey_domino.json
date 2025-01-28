@@ -3,7 +3,7 @@
   "wake_word": "Hey Domino",
   "author": "SPJ",
   "website": "https://www.subgenius.com/",
-  "model": "./Hey_Domino.tflite",
+  "model": "https://raw.githubusercontent.com/shawnpjennings/microwakewords/main/Hey_Domino.tflite",
   "version": 1,
   "micro": {
     "probability_cutoff": 0.5,
